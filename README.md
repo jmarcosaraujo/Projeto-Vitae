@@ -1,103 +1,46 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   Jmacosaraujo7
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
-    <main class="container">
-        <section class="profile">
-            <img src="https://avatars.githubusercontent.com/u/00000000?v=4" alt="Foto de João Marcos" class="avatar">
-            <h1>João Marcos</h1>
-            <p>Desenvolvedor Front-End | HTML, CSS, JavaScript</p>
-            <div class="social-links">
-                <a href="https://github.com/jmarcos" target="_blank">GitHub</a>
-                <a href="https://linkedin.com/in/jmarcos" target="_blank">LinkedIn</a>
-                <a href="mailto:jmarcosaraujo7@email.com">Email</a>
-            </div>
-        </section>
-        <section class="github-stats">
-            <h2>Estatísticas do GitHub</h2>
-            <img src="https://github-readme-stats.vercel.app/api?username=jmarcos&show_icons=true&theme=radical" alt="GitHub Stats">
-        </section>
-    </main>
-</body>
-</html>
+# 👨‍💻 João Marcos Araújo Lima
+### Desenvolvedor Front-End | C# | .NET | HTML, CSS, JavaScript
 
-# Portfólio João Marcos Araújo
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jmarcosaraujo&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
-Portfólio pessoal em HTML, CSS e JavaScript, com animações sutis e design responsivo.
+---
 
-## Estrutura
+## 📝 Sobre Mim
+Desenvolvedor focado em criar soluções modernas e responsivas. Atualmente trabalhando no projeto **AnimeScript-API**, integrando inteligência artificial (Gemini) com arquitetura limpa em .NET.
 
-- **index.html**: Página principal do portfólio.
-- **style.css**: Estilos e animações.
-- **script.js**: Animações de scroll.
+---
 
-## Tecnologias
+## 🎓 Escolaridade
+* **Análise e Desenvolvimento de Sistemas** - UniGrande (Bacharel)
+* **Ciências da Computação** - UFT (Bacharel)
+* **Segundo Grau Completo** - Colégio Estadual de Araguacema (2011-2013)
 
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+---
 
-## Como visualizar
+## 📜 Cursos e Certificações
+* **Fundação Estudar**: Ciência da Computação de Harvard (CS50 Brasil)
+* **SENAI**: Tecnologia da Informação / Empreendedorismo
+* **Faculdade Delta**: Montagem e Manutenção de Computadores
+* **ACIEG**: Excel Básico ao Intermediário
+* **SENAC**: Operador de Computadores / Bases Instrumentais de TI
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfólio João Marcos Araújo</title>
-  <link rel="stylesheet" href="assets/style.css">
-</head>
-<body>
-  <header class="header">
-    <h1>João Marcos Araújo Lima</h1>
-    <p>Rua AB 2, Residencial Alice Barbosa, 74691-820, Goiânia – GO</p>
-    <p>Fone: (63)99116-5816 | E-mail: jmarcosaraujo7@gmail.com</p>
-    <p><a href="https://linkedin.com/in/joão-marcos-araújo-lima-07b032214" target="_blank">LinkedIn</a></p>
-  </header>
-  <main>
-    <section class="objetivo">
-      <h2>Objetivo</h2>
-      <p>Ingressar no mercado de trabalho aplicando meus conhecimentos de maneira íntegra, responsável e proativa. Capacidade de trabalhar em equipe, facilidade em comunicação e organização.</p>
-    </section>
-    <section class="experiencias">
-      <h2>Experiências</h2>
-      <ul>
-        <li><strong>CVW COMECIO DE ALIMENTOS LTDA</strong> - Serviços Gerais (6 meses): repositor/estoquista/carga e descarga de HortiFruit/vigilante de estacionamento.</li>
-        <li><strong>Camisetas Ágape LTDA - ME</strong> - Auxiliar de Prensa (1 ano e 4 meses): impressão digital/almoxarifado/expedição/estoque de malhas/cortes de malhas/entregas.</li>
-        <li><strong>MAJU COMERCIO DE ARTIGO DE PAPELARIA LTDA</strong> - Motorista (1 ano e 8 meses): entregador nas escolas da região do Tocantins/organização de loja/limpeza de estoque/atendimento ao cliente.</li>
-      </ul>
-    </section>
-    <section class="escolaridade">
-      <h2>Escolaridade</h2>
-      <ul>
-        <li>Segundo Grau Completo - Colégio Estadual de Araguacema (2011-2013)</li>
-        <li>Escola Menno Simons (2002-2010)</li>
-      </ul>
-    </section>
-    <section class="cursos">
-      <h2>Cursos Extras Curriculares</h2>
-      <ul>
-        <li>UFT: Ciências da Computação - Bacharel</li>
-        <li>Faculdade Delta – Goiânia: Montagem e Manutenção de Computadores</li>
-        <li>SENAI: Tecnologia da informação / Empreendedorismo / Informática Básica</li>
-        <li>ACIEG – Goiânia: Excel – Básico ao intermediário</li>
-        <li>UniGrande: Analise e Desenvolvimento de Sistemas - Bacharel</li>
-        <li>SENAC: Operador de Computadores / Trabalho e cidadania</li>
-        <li>SENAC: Bases Instrumentais da tecnologia da informação</li>
-        <li>Fundação Estudar: Ciências da Computação de HARVARD no Brasil</li>
-      </ul>
-    </section>
-  </main>
-  <footer>
-    <p>&copy; 2025 João Marcos Araújo Lima</p>
-  </footer>
-  <script src="assets/script.js"></script>
-</body>
-</html>
+---
 
+## 🛠️ Tecnologias e Ferramentas
+* **Linguagens**: C#, HTML5, CSS3, JavaScript (Vanilla)
+* **Frameworks/Libs**: .NET 9, Mscc.GenerativeAI
+* **Outros**: Montagem de Hardware, Manutenção de Sistemas, Excel Avançado
 
+---
+
+## ✉️ Contato
+* **Email**: [jmarcosaraujo7@gmail.com](mailto:jmarcosaraujo7@gmail.com)
+* **LinkedIn**: [João Marcos Araújo Lima](https://linkedin.com/in/joão-marcos-araújo-lima-07b032214)
+* **GitHub**: [jmarcosaraujo](https://github.com/jmarcosaraujo)
+
+---
+<p align="center">
+  &copy; 2025 João Marcos Araújo Lima
+</p>
